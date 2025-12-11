@@ -2,7 +2,7 @@
 - 👀 I’m interested in using artificial intellegence for the analysis of condensed matter physics data.
 - 🌱 I’m currently learning how to better use Swift in the teaching of computational physics.
 - 💞️ I’m looking to collaborate on artificial intellegence and image processing tools. 
-- 📫 You can reach me by email at terryj@iit.edu 
+- 📫 You can reach me by email at terryj@illinoistech.edu 
 
 <!---
 jterry94/jterry94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
